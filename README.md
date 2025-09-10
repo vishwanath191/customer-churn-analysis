@@ -11,18 +11,14 @@ This project analyzes telecom customer churn and builds a predictive model using
 ## Tools Used
 - Python (pandas, matplotlib, seaborn, scikit-learn)
 - Google Colab
-- Power BI (for dashboard)
 
 ## Key Insights
 - Customers with **month-to-month contracts** are 3x more likely to churn.
 - Higher **monthly charges** increase churn probability.
 - Auto-payment methods reduce churn.
 
-## Results
-- Logistic Regression model achieved **82% accuracy**.
-- Dashboard built in Power BI (screenshot attached).
 
 ## Notebook
-- [Google Colab Notebook](link-to-colab)
+- [Google Colab Notebook](https://colab.research.google.com/drive/17SFMQBM1M6PIEYO0MaUAdOg94nBcmpVh?usp=sharing)
 
 
